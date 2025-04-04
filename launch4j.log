@@ -1,0 +1,23 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\jhons\OneDrive\Documentos\projetos2\CalculadoraJava\CalculadoraGUI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\jhons\OneDrive\Documentos\projetos2\CalculadoraJava\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\MongoDB\mongosh-2.4.2-win32-x64\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\jhons\AppData\Roaming\npm;npm root -g;C:\Program Files\nodejs\;C:\Users\jhons\AppData\Local\Microsoft\WindowsApps;C:\Users\jhons\AppData\Local\Programs\mongosh\;C:\Users\jhons\AppData\Local\GitHubDesktop\bin;npm root -g;C:\Users\jhons\AppData\Roaming\npm;C:\Users\jhons\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python313\Scripts\;C:\Python313\;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\Program Files\Microsoft MPI\Bin\;C:\Program Files\Eclipse Adoptium\jdk-17.0.13.11-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\MongoDB\mongosh-2.4.2-win32-x64\bin;C:\ProgramData\chocolatey\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\jhons\AppData\Roaming\npm;npm root -g;C:\Program Files\nodejs\;C:\Users\jhons\AppData\Local\Microsoft\WindowsApps;C:\Users\jhons\AppData\Local\Programs\mongosh\;C:\Users\jhons\AppData\Local\GitHubDesktop\bin;npm root -g;C:\Users\jhons\AppData\Roaming\npm;C:\Users\jhons\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\Scripts\bin\javaw.exe (not found)
+Check launcher:	C:\Python313\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin\javaw.exe (OK)
+Version string: 1.021.000_006 / 64-Bit (OK)
+Launcher:	C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\jhons\OneDrive\Documentos\projetos2\CalculadoraJava\CalculadoraGUI.exe"
+Args length:	86/32768 chars
+Exit code:	0
